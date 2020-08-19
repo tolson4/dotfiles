@@ -1,0 +1,10 @@
+font=SFProDisplay 12
+background-color=#2E3440F2
+text-color=#D8DEE9
+border-size=1
+border-radius=5
+border-color=#2E3440
+padding=15
+margin=5
+default-timeout=5000
+max-visible=3
